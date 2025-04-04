@@ -1,6 +1,6 @@
 # MERN Full Stack Project
 
-![Project Logo](backend/uploads/1743666406520-Agent App 4.png)
+![Project Logo](backend/uploads/AgentApp.png)
 
 ## 📌 Project Overview
 A multi-stage form built using React (Frontend) and Express + MongoDB (Backend) that allows users to add, edit, delete, and search form entries.
@@ -25,8 +25,8 @@ A multi-stage form built using React (Frontend) and Express + MongoDB (Backend) 
 
 ### Home Page
 
-![Home Page](backend/uploads/1743666406520-Agent App 4.png)
-![Upload Page](backend/uploads/1743666406520-Agent App 4.png)
+![Home Page](backend/uploads/AgentApp.png)
+![Upload Page](backend/uploads/AgentApp.png)
 ![Multistage Pop up](backend/uploads/multistage popup)
 ![Search Page](backend/uploads/search by name)
 
